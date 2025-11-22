@@ -20,6 +20,9 @@ For completed actions in the past. Includes QASI structure for questions.
 ### [006 - Past Continuous](006-past-continuous.md)
 For actions in progress in the past. Use with Past Simple for interrupted actions.
 
+### [007 - Sequencing and Storytelling](007-sequencing-storytelling.md)
+Learn to tell stories using sequence words (suddenly, then, after that, finally) with Past Simple and Past Continuous.
+
 ### [Future with "going to"](future-going-to.md)
 For plans and intentions.
 

@@ -17,6 +17,9 @@ For offers, promises, spontaneous decisions, and predictions.
 ### [005 - Past Simple](005-past-simple.md)
 For completed actions in the past. Includes QASI structure for questions.
 
+### [006 - Past Continuous](006-past-continuous.md)
+For actions in progress in the past. Use with Past Simple for interrupted actions.
+
 ### [Future with "going to"](future-going-to.md)
 For plans and intentions.
 

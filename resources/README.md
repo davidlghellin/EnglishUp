@@ -343,6 +343,266 @@ Search for:
 
 ---
 
+## TV Series and Movies - Series y Películas
+
+### Why Watch Series? - ¿Por Qué Ver Series?
+
+Watching TV series in English is one of the best ways to improve your listening, vocabulary, and understanding of natural conversation. For A2 learners, choose series with:
+- Clear dialogue
+- Everyday situations
+- Subtitles available
+- Not too complex plots
+
+Ver series en inglés es una de las mejores formas de mejorar tu listening, vocabulario y comprensión de conversación natural. Para nivel A2, elige series con:
+- Diálogos claros
+- Situaciones cotidianas
+- Subtítulos disponibles
+- Tramas no muy complejas
+
+---
+
+### Recommended Series for A2 Learners - Series Recomendadas
+
+#### **Friends** ⭐ HIGHLY RECOMMENDED
+- **Platform:** Netflix, HBO Max
+- **Level:** A2-B1 (Perfect for beginners)
+- **Why:** Clear dialogue, everyday situations, humor, 20-min episodes
+- **Topics:** Friendship, relationships, work, daily life
+- **Accent:** American English
+- **Tip:** Start with English subtitles, very popular so lots of learning materials available
+
+#### **The Good Place**
+- **Platform:** Netflix
+- **Level:** A2-B1
+- **Why:** Simple language, philosophical but accessible, funny
+- **Topics:** Ethics, friendship, afterlife (comedy)
+- **Accent:** American English
+- **Tip:** Clean language, appropriate for all ages
+
+#### **Brooklyn Nine-Nine**
+- **Platform:** Netflix
+- **Level:** A2-B1
+- **Why:** Police comedy, clear dialogue, episodic format
+- **Topics:** Work, friendship, comedy, investigations
+- **Accent:** American English
+- **Tip:** Funny but not vulgar, easy to follow
+
+#### **The Crown** (for British English)
+- **Platform:** Netflix
+- **Level:** B1 (challenging for A2 but good exposure)
+- **Why:** Historical drama, clear British English, beautiful production
+- **Topics:** British royal family, history, politics
+- **Accent:** British English (formal)
+- **Tip:** Watch with subtitles, great for British accent practice
+
+#### **Modern Family**
+- **Platform:** Disney+, Hulu
+- **Level:** A2-B1
+- **Why:** Mockumentary style, family situations, diverse characters
+- **Topics:** Family life, parenting, relationships
+- **Accent:** American English
+- **Tip:** Different family dynamics, relatable situations
+
+#### **Gilmore Girls**
+- **Platform:** Netflix
+- **Level:** B1 (fast dialogue but clear)
+- **Why:** Mother-daughter relationship, small-town life
+- **Topics:** Family, relationships, daily life, culture
+- **Accent:** American English
+- **Warning:** Fast dialogue, may need to pause often
+
+#### **Downton Abbey** (for British English)
+- **Platform:** Amazon Prime
+- **Level:** B1
+- **Why:** Historical drama, formal British English, clear dialogue
+- **Topics:** British aristocracy, history, class distinctions
+- **Accent:** British English (various classes)
+- **Tip:** Excellent for formal British English
+
+#### **The Office (US)**
+- **Platform:** Netflix, Amazon Prime
+- **Level:** A2-B1
+- **Why:** Workplace comedy, mockumentary style
+- **Topics:** Office life, work relationships, humor
+- **Accent:** American English
+- **Tip:** Character interviews make dialogue clear
+
+#### **Parks and Recreation**
+- **Platform:** Netflix
+- **Level:** A2-B1
+- **Why:** Workplace comedy, positive characters, episodic
+- **Topics:** Local government, community, friendship
+- **Accent:** American English
+- **Tip:** Similar to The Office but more upbeat
+
+---
+
+### Documentaries - Documentales
+
+Documentaries are excellent for learning because narrators speak clearly and topics are educational.
+
+#### **Planet Earth / Blue Planet (BBC)**
+- **Platform:** Netflix, BBC iPlayer
+- **Level:** A2-B1
+- **Why:** Beautiful nature documentaries, clear narration by David Attenborough
+- **Topics:** Nature, animals, environment
+- **Accent:** British English
+- **Tip:** Visual context helps understanding
+
+#### **Chef's Table**
+- **Platform:** Netflix
+- **Level:** B1
+- **Why:** Food documentaries, interviews with chefs
+- **Topics:** Cooking, culture, creativity
+- **Accent:** Various (international)
+- **Tip:** Visual cooking context aids comprehension
+
+#### **Street Food**
+- **Platform:** Netflix
+- **Level:** A2-B1
+- **Why:** Food culture around the world, clear narration
+- **Topics:** Food, culture, small businesses
+- **Accent:** Various
+- **Tip:** Each episode focuses on one place
+
+#### **The Great British Bake Off** (Baking Show)
+- **Platform:** Netflix (as "The Great British Baking Show")
+- **Level:** A2-B1
+- **Why:** Baking competition, clear British English, friendly atmosphere
+- **Topics:** Baking, competition, British culture
+- **Accent:** British English
+- **Tip:** Repetitive vocabulary (baking terms), relaxing to watch
+
+---
+
+### YouTube Series - Series de YouTube
+
+#### **Extra English** (Specifically for learners)
+- **Platform:** YouTube (free)
+- **Level:** A1-A2 (Perfect for beginners!)
+- **Why:** Made for English learners, exaggerated acting, clear dialogue
+- **Topics:** Daily life, relationships, work
+- **Link:** Search "Extra English" on YouTube
+- **Tip:** Each episode has a language learning focus
+
+#### **English Conversations** (Easy English YouTube)
+- **Platform:** YouTube
+- **Level:** A2
+- **Why:** Real conversations with subtitles in English and other languages
+- **Topics:** Everyday life, opinions, culture
+- **Tip:** Choose topics that interest you
+
+---
+
+### Movies - Películas
+
+For A2 learners, choose movies with:
+- Simple plots
+- Clear dialogue
+- Everyday language
+- Visual context
+
+#### Recommended Movies:
+
+**Forrest Gump**
+- **Level:** A2-B1
+- **Why:** Simple narration, touching story, American culture
+- **Accent:** Southern American English
+
+**The Pursuit of Happyness**
+- **Level:** A2-B1
+- **Why:** Inspirational story, clear dialogue, emotional
+- **Accent:** American English
+
+**Notting Hill**
+- **Level:** A2-B1
+- **Why:** Romantic comedy, British English, clear dialogue
+- **Accent:** British English
+
+**Amélie** (English dubbed or subtitled)
+- **Level:** A2
+- **Why:** Visual storytelling, whimsical, not dialogue-heavy
+- **Accent:** Can watch with English audio or subtitles
+
+**Finding Nemo / Finding Dory** (Pixar)
+- **Level:** A2 (animated but mature themes)
+- **Why:** Clear dialogue, family-friendly but not childish
+- **Accent:** American English
+
+**Toy Story Series** (Pixar)
+- **Level:** A2
+- **Why:** Clear dialogue, themes of friendship and growing up
+- **Accent:** American English
+- **Note:** While animated, deals with mature themes suitable for adults
+
+---
+
+### How to Watch Effectively - Cómo Ver Efectivamente
+
+#### Level 1: Beginner Approach (A2)
+1. **First viewing:** Spanish subtitles (just to understand the story)
+2. **Second viewing:** English subtitles (read and listen)
+3. **Third viewing:** No subtitles (challenge yourself)
+
+#### Level 2: Intermediate Approach
+1. **First viewing:** English subtitles
+2. **Second viewing:** No subtitles
+
+#### Active Watching Tips:
+- **Pause and repeat:** Repeat sentences after characters
+- **Note new words:** Keep a vocabulary notebook
+- **Focus on one episode:** Watch the same episode multiple times
+- **Shadow:** Say lines along with characters
+- **Use Language Reactor:** Chrome extension that shows dual subtitles
+
+#### Best Practices:
+- ✅ **Watch regularly:** 20-30 minutes daily is better than 2 hours weekly
+- ✅ **Choose topics you like:** You'll stay motivated
+- ✅ **Don't aim for 100% understanding:** 60-70% is good for learning
+- ✅ **Mix with active study:** Don't replace grammar study with just watching
+- ❌ **Avoid relying on Spanish subtitles:** Wean off them as soon as possible
+
+---
+
+### Language Learning Extensions - Extensiones para Aprender
+
+#### **Language Reactor** (formerly Language Learning with Netflix)
+- **Platform:** Chrome Extension
+- **What it does:** Shows dual subtitles (English + Spanish), allows you to click words for definitions
+- **Cost:** Free basic, paid premium
+- **Best for:** Active watching and vocabulary building
+
+#### **Substital**
+- **Platform:** Chrome Extension
+- **What it does:** Adds second subtitles to streaming sites
+- **Cost:** Free
+
+---
+
+### Streaming Platforms - Plataformas de Streaming
+
+**Netflix**
+- Most content available with English audio and subtitles
+- Use "Audio & Subtitles" settings to change language
+
+**Amazon Prime Video**
+- Good selection of British and American content
+- Check availability in your region
+
+**Disney+**
+- Family-friendly content, clear dialogue
+- Good for practicing with familiar stories
+
+**YouTube**
+- Free content, many series available
+- Use auto-generated subtitles with caution (not always accurate)
+
+---
+
+**Remember:** Watching series is supplement to, not replacement for, active study. Combine watching with grammar practice, vocabulary building, and speaking practice for best results!
+
+---
+
 ## Dictionary and Translation Tools - Diccionarios y Traductores
 
 ### Recommended Dictionaries - Diccionarios Recomendados

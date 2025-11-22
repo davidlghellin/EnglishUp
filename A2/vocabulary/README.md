@@ -2,6 +2,24 @@
 
 ## Topics
 
+### [001 - Personality](001-personality.md)
+Adjectives to describe personality and character traits.
+
+### [002 - Question Words](002-question-words.md)
+Essential question words: what, who, where, when, why, how, which, whose.
+
+### [003 - Hair](003-pelo.md)
+Vocabulary for describing hair length, type, color, and styles.
+
+### [004 - Physical Appearance](004-aspecto-fisico.md)
+Describe people's height, build, face features, and overall appearance.
+
+### [005 - Clothes](005-ropa.md)
+Clothing items, colors, patterns, materials, and how to describe what you're wearing.
+
+### [006 - Travel and Actions](006-viajes-y-acciones.md)
+Travel vocabulary and action verbs for daily routines, household tasks, and leisure activities.
+
 ### [Daily Routines](daily-routines.md)
 Learn vocabulary about your everyday activities and schedule.
 
@@ -10,9 +28,6 @@ Vocabulary for restaurants, cooking, and eating.
 
 ### [Shopping](shopping.md)
 Words and phrases for buying things and talking about prices.
-
-### [Travel and Directions](travel-directions.md)
-Essential vocabulary for getting around and asking for directions.
 
 ### [Weather](weather.md)
 Describe the weather and seasons.

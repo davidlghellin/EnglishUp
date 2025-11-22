@@ -8,7 +8,7 @@ Linking words: and, but, because, so, although, however, when, while, etc.
 ### [002 - Present Simple](002-present-simple.md)
 For habits, routines, and general truths.
 
-### [Present Continuous](present-continuous.md)
+### [003 - Present Continuous](003-present-continuous.md)
 For actions happening now or temporary situations.
 
 ### [Past Simple](past-simple.md)

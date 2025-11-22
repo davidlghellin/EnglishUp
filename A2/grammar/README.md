@@ -11,6 +11,9 @@ For habits, routines, and general truths.
 ### [003 - Present Continuous](003-present-continuous.md)
 For actions happening now or temporary situations.
 
+### [004 - Will (Future Simple)](004-will-future.md)
+For offers, promises, spontaneous decisions, and predictions.
+
 ### [Past Simple](past-simple.md)
 For completed actions in the past.
 

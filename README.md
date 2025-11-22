@@ -41,6 +41,13 @@ At A2 level, you can:
 - Common words that look like Spanish but have different meanings
 - Actually, library, parents, embarrassed, and many more!
 
+### 5. [Online Resources](resources/)
+- YouTube channels for grammar, vocabulary, and pronunciation
+- Podcasts for listening practice
+- Websites for grammar and exercises
+- Apps and tools for daily practice
+- Recommended learning schedule
+
 ## Getting Started
 
 Choose a topic from the sections above and start learning!

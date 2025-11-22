@@ -2,6 +2,9 @@
 
 ## Topics
 
+### [001 - Connectors](001-connectors.md)
+Linking words: and, but, because, so, although, however, when, while, etc.
+
 ### [Present Simple](present-simple.md)
 For habits, routines, and general truths.
 

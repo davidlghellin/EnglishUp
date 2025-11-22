@@ -23,8 +23,8 @@ For actions in progress in the past. Use with Past Simple for interrupted action
 ### [007 - Sequencing and Storytelling](007-sequencing-storytelling.md)
 Learn to tell stories using sequence words (suddenly, then, after that, finally) with Past Simple and Past Continuous.
 
-### [Future with "going to"](future-going-to.md)
-For plans and intentions.
+### [008 - Going to (Future Plans)](008-going-to-future.md)
+For plans and intentions. Includes travel agency scenarios and itineraries.
 
 ### [Modal Verbs](modal-verbs.md)
 Can, could, should, must - expressing ability, permission, advice, and obligation.

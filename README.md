@@ -13,26 +13,33 @@ At A2 level, you can:
 
 ## Course Structure
 
-### 1. Grammar Topics
+### 1. [Grammar Topics](A2/grammar/)
 - Present Simple and Present Continuous
 - Past Simple
-- Future with "going to"
+- Future with "going to" and "will"
 - Modal verbs (can, could, should, must)
 - Comparatives and Superlatives
+- Connectors
 
-### 2. Vocabulary Areas
-- Daily routines
+### 2. [Vocabulary Areas](A2/vocabulary/)
+- Personality and physical appearance
+- Daily routines and actions
+- Clothes and fashion
 - Food and drinks
 - Shopping
 - Travel and directions
 - Weather
 - Family and relationships
 
-### 3. Skills Practice
-- **Reading**: Short texts and simple stories
-- **Writing**: Basic emails, messages, and descriptions
-- **Listening**: Everyday conversations
-- **Speaking**: Common situations and dialogues
+### 3. [Skills Practice](A2/)
+- **[Reading](A2/reading/)**: Short texts and simple stories
+- **[Writing](A2/writing/)**: Basic emails, messages, and descriptions
+- **[Listening](A2/listening/)**: Everyday conversations
+- **[Speaking](A2/speaking/)**: Common situations and dialogues
+
+### 4. [False Friends](A2/false-friends/)
+- Common words that look like Spanish but have different meanings
+- Actually, library, parents, embarrassed, and many more!
 
 ## Getting Started
 

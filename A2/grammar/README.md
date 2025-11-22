@@ -14,8 +14,8 @@ For actions happening now or temporary situations.
 ### [004 - Will (Future Simple)](004-will-future.md)
 For offers, promises, spontaneous decisions, and predictions.
 
-### [Past Simple](past-simple.md)
-For completed actions in the past.
+### [005 - Past Simple](005-past-simple.md)
+For completed actions in the past. Includes QASI structure for questions.
 
 ### [Future with "going to"](future-going-to.md)
 For plans and intentions.

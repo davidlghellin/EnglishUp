@@ -2,6 +2,9 @@
 
 ## Practice Makes Perfect!
 
+### [001 - Describing Photos](001-describing-photos.md)
+Learn to describe photos using Past Simple and Past Continuous. Includes position vocabulary (in the background, in the corner, on the left, etc.).
+
 ### Grammar Exercises
 Practice all grammar topics with exercises.
 

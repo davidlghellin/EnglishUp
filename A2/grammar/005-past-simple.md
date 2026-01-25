@@ -463,6 +463,7 @@ See the complete list in the "Irregular Verbs" section above.
 
 | ❌ Incorrect | ✅ Correct | Explanation |
 |:------------|:----------|:------------|
+| I **don't** go to the gym this morning. | I **didn't go** to the gym this morning. | DON'T = present, DIDN'T = past! |
 | I didn't went. | I didn't **go**. | Use infinitive after didn't |
 | She didn't saw it. | She didn't **see** it. | Use infinitive after didn't |
 | Did you worked? | Did you **work**? | Use infinitive after did |

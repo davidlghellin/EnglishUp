@@ -48,7 +48,7 @@ Technical terms: data pipeline, compute overhead, edge case, scalability, deploy
 Learn vocabulary about your everyday activities and schedule.
 
 ### [Food and Drinks](food-drinks.md)
-Vocabulary for restaurants, cooking, and eating.
+Cooking vocabulary: broth, BBQ, flavorful, brisket. Restaurant terms: waiter, catering. Describing food taste and texture.
 
 ### [Shopping](shopping.md)
 Words and phrases for buying things and talking about prices.

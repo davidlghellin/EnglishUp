@@ -360,6 +360,25 @@ Spanish speakers often say:
 4. **Th**ursday is **th**e **th**ird day.
 5. I **th**ought **th**rough **th**e problem.
 
+### TH at the End of Words
+
+Don't forget TH at the END of words too! Use the same /θ/ sound:
+
+| Word | Pronunciation | Example |
+|------|---------------|---------|
+| **broth** | /brɒθ/ | chicken bro**th** |
+| **path** | /pɑːθ/ | the pa**th** to success |
+| **bath** | /bɑːθ/ | take a ba**th** |
+| **cloth** | /klɒθ/ | a piece of clo**th** |
+| **mouth** | /maʊθ/ | open your mou**th** |
+| **tooth** | /tuːθ/ | brush your too**th** |
+| **with** | /wɪð/ | come wi**th** me |
+| **both** | /bəʊθ/ | bo**th** of them |
+| **worth** | /wɜːθ/ | it's wor**th** it |
+| **health** | /helθ/ | good heal**th** |
+
+**Practice**: The bro**th** is wor**th** the wai**t**.
+
 ---
 
 ## 8. Silent Letters

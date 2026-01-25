@@ -32,6 +32,9 @@ For experiences, recent actions, and duration (for/since). Ever, never, just, al
 ### [012 - Relative Clauses](012-relative-clauses.md)
 Defining relative clauses with WHO, WHICH, THAT, WHERE, WHEN, WHOSE.
 
+### [013 - Verb Patterns](013-verb-patterns.md)
+Like, love, hate, enjoy + verb-ING. Common mistake: "I like go" → "I like going".
+
 ### [Modal Verbs](modal-verbs.md)
 Can, could, should, must - expressing ability, permission, advice, and obligation.
 

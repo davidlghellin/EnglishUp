@@ -362,6 +362,85 @@ Spanish speakers often say:
 
 ---
 
+## 8. Silent Letters
+
+### The Problem
+
+English has many silent letters that Spanish speakers try to pronounce.
+
+### Silent L
+
+The "L" is **silent** in these common words:
+
+| Word | Pronunciation | Wrong ❌ |
+|------|---------------|----------|
+| could | /kʊd/ | ~~could~~ with L |
+| would | /wʊd/ | ~~would~~ with L |
+| should | /ʃʊd/ | ~~should~~ with L |
+| walk | /wɔːk/ | ~~walk~~ with L |
+| talk | /tɔːk/ | ~~talk~~ with L |
+| half | /hɑːf/ | ~~half~~ with L |
+| calm | /kɑːm/ | ~~calm~~ with L |
+| salmon | /ˈsæmən/ | ~~salmon~~ with L |
+
+### Silent K
+
+The "K" is silent before "N":
+
+| Word | Pronunciation |
+|------|---------------|
+| know | /nəʊ/ |
+| knife | /naɪf/ |
+| knee | /niː/ |
+| knock | /nɒk/ |
+| knight | /naɪt/ |
+
+### Silent W
+
+The "W" is silent before "R":
+
+| Word | Pronunciation |
+|------|---------------|
+| write | /raɪt/ |
+| wrong | /rɒŋ/ |
+| wrist | /rɪst/ |
+| wrap | /ræp/ |
+
+### Silent B
+
+The "B" is silent after "M" at the end:
+
+| Word | Pronunciation |
+|------|---------------|
+| climb | /klaɪm/ |
+| lamb | /læm/ |
+| thumb | /θʌm/ |
+| comb | /kəʊm/ |
+| bomb | /bɒm/ |
+
+### Silent GH
+
+"GH" is often silent:
+
+| Word | Pronunciation |
+|------|---------------|
+| night | /naɪt/ |
+| light | /laɪt/ |
+| right | /raɪt/ |
+| daughter | /ˈdɔːtə/ |
+| thought | /θɔːt/ |
+| through | /θruː/ |
+
+### Practice Sentences
+
+1. I **could** **walk** and **talk** at the same time.
+2. **Would** you like **half** of my **salmon**?
+3. I **know** it's **wrong**, but I don't **know** **what** to do.
+4. She **thought** it was **right** to **write** a letter.
+5. He **climbed** the mountain with his **thumb** up.
+
+---
+
 ## Daily Practice Routine
 
 ### 5-Minute Daily Exercise

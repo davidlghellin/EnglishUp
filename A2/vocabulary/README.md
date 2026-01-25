@@ -20,6 +20,9 @@ Clothing items, colors, patterns, materials, and how to describe what you're wea
 ### [006 - Travel and Actions](006-viajes-y-acciones.md)
 Travel vocabulary and action verbs for daily routines, household tasks, and leisure activities.
 
+### [007 - Household Chores](007-household-chores.md)
+Vocabulary for housework: cleaning, laundry, kitchen tasks, and responsibilities.
+
 ### [Daily Routines](daily-routines.md)
 Learn vocabulary about your everyday activities and schedule.
 

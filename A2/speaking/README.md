@@ -2,6 +2,9 @@
 
 ## Speaking Topics
 
+### [001 - Making Suggestions](001-making-suggestions.md)
+How to suggest, agree, disagree, and negotiate in conversations.
+
 ### Introducing Yourself
 How to present yourself and talk about your life.
 

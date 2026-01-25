@@ -11,6 +11,15 @@ Common pronunciation errors and how to fix them:
 - Short I vs Long EE (ship vs sheep)
 - Word stress
 - TH sounds
+- Silent letters (could, walk, knife)
+
+### [002 - American vs British English](002-american-vs-british.md)
+Focus on American English pronunciation:
+- R sounds (always pronounced)
+- Flapped T (water → wader)
+- Flat A sound (can't, dance)
+- Common reductions (gonna, wanna, hafta)
+- Word differences (schedule, vitamin)
 
 ---
 

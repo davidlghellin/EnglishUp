@@ -41,6 +41,9 @@ Synonyms and different ways to express the same idea.
 ### [013 - Business English](013-business-english.md)
 Professional expressions: circle back, side hustle, heavy workload, that's why, as a result.
 
+### [014 - Tech & Big Data Vocabulary](014-tech-vocabulary.md)
+Technical terms: data pipeline, compute overhead, edge case, scalability, deploy, debug, latency. Explaining tech to non-technical people.
+
 ### [Daily Routines](daily-routines.md)
 Learn vocabulary about your everyday activities and schedule.
 

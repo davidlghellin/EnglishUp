@@ -32,8 +32,8 @@ Can, could, should, must - expressing ability, permission, advice, and obligatio
 ### [Comparatives and Superlatives](comparatives-superlatives.md)
 Comparing things and people.
 
-### [Prepositions of Time and Place](prepositions.md)
-In, on, at, and more.
+### [009 - Prepositions of Time and Place](009-prepositions.md)
+AT, IN, ON - for places and times.
 
 ### [Question Words](question-words.md)
 Who, what, where, when, why, how.

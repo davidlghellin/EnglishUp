@@ -29,6 +29,9 @@ For plans and intentions. Includes travel agency scenarios and itineraries.
 ### [011 - Present Perfect](011-present-perfect.md)
 For experiences, recent actions, and duration (for/since). Ever, never, just, already, yet.
 
+### [012 - Relative Clauses](012-relative-clauses.md)
+Defining relative clauses with WHO, WHICH, THAT, WHERE, WHEN, WHOSE.
+
 ### [Modal Verbs](modal-verbs.md)
 Can, could, should, must - expressing ability, permission, advice, and obligation.
 

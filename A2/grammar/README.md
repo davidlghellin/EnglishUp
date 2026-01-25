@@ -26,6 +26,9 @@ Learn to tell stories using sequence words (suddenly, then, after that, finally)
 ### [008 - Going to (Future Plans)](008-going-to-future.md)
 For plans and intentions. Includes travel agency scenarios and itineraries.
 
+### [011 - Present Perfect](011-present-perfect.md)
+For experiences, recent actions, and duration (for/since). Ever, never, just, already, yet.
+
 ### [Modal Verbs](modal-verbs.md)
 Can, could, should, must - expressing ability, permission, advice, and obligation.
 

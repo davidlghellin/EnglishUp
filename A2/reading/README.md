@@ -2,6 +2,9 @@
 
 ## Reading Materials
 
+### [001 - Book Reviews](001-book-reviews.md)
+How to write about a book: plot summary, character descriptions, and opinions.
+
 ### Short Stories
 Simple stories to practice your reading comprehension.
 

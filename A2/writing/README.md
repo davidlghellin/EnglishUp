@@ -14,6 +14,9 @@ Describe people, places, and things.
 ### [004 - Simple Narratives](004-simple-narratives.md)
 Write about past events and experiences.
 
+### [005 - Hobbies and Interests](005-hobbies-and-interests.md)
+Write articles about hobbies like drawing, cooking, sports, and music.
+
 ---
 
 **Tip**: Start with simple sentences, then combine them to make your writing more interesting!

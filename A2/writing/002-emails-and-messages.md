@@ -67,6 +67,66 @@ Keep them short and clear:
 
 ---
 
+## "Looking Forward To" + verb-ING
+
+This is a very common phrase for ending emails. It means you are excited or waiting for something.
+
+### Structure
+**Look forward to + verb-ING** (NOT infinitive!)
+
+> **Why -ING?** Because "to" here is a PREPOSITION, not part of an infinitive. After prepositions, we always use -ING.
+
+### Examples
+
+| Correct | Incorrect |
+|---------|-----------|
+| I'm looking forward to **seeing** you | ~~looking forward to see~~ |
+| I look forward to **hearing** from you | ~~look forward to hear~~ |
+| We're looking forward to **meeting** you | ~~looking forward to meet~~ |
+| I'm looking forward to **starting** my new job | ~~looking forward to start~~ |
+| She's looking forward to **going** on holiday | ~~looking forward to go~~ |
+
+### Formal vs Informal
+
+| Formal (emails, letters) | Informal (friends) |
+|--------------------------|-------------------|
+| I look forward to hearing from you | I'm looking forward to seeing you! |
+| I look forward to your reply | Looking forward to the party! |
+| I look forward to meeting you | Can't wait to see you! |
+
+### Common Uses in Emails
+
+**Ending formal emails:**
+- I look forward to hearing from you.
+- I look forward to your reply.
+- I look forward to meeting you soon.
+- I look forward to receiving your confirmation.
+
+**Ending informal emails:**
+- Looking forward to seeing you!
+- Looking forward to the weekend!
+- I'm really looking forward to your visit!
+
+### Similar Structures (Preposition + -ING)
+
+Other expressions that use "to" as a preposition (NOT infinitive):
+
+| Expression | Example |
+|------------|---------|
+| be used to + -ing | I'm used to **working** at night |
+| get used to + -ing | I'm getting used to **living** here |
+| object to + -ing | I object to **paying** extra |
+| admit to + -ing | He admitted to **stealing** the money |
+| be committed to + -ing | We're committed to **helping** you |
+
+### Common Mistakes
+
+❌ I look forward to **see** you → ✅ I look forward to **seeing** you
+❌ I'm looking forward to **meet** you → ✅ I'm looking forward to **meeting** you
+❌ Looking forward to **hear** from you → ✅ Looking forward to **hearing** from you
+
+---
+
 ## Pen Pal Letters (Cartas de presentación)
 
 Writing to someone you don't know well. Introduce yourself and share personal information.

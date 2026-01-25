@@ -23,6 +23,21 @@ Travel vocabulary and action verbs for daily routines, household tasks, and leis
 ### [007 - Household Chores](007-household-chores.md)
 Vocabulary for housework: cleaning, laundry, kitchen tasks, and responsibilities.
 
+### [008 - Common Verb Phrases](008-common-verb-phrases.md)
+GET up, HAVE breakfast, GO shopping, TAKE a photo, MAKE a decision, DO homework.
+
+### [009 - Holidays](009-holidays.md)
+Holiday types, activities, accommodation, and useful travel phrases.
+
+### [010 - Airports](010-airports.md)
+Airport vocabulary: check-in, boarding, luggage, security, and flight announcements.
+
+### [011 - Verbs + Prepositions](011-verbs-prepositions.md)
+Arrive IN/AT, listen TO, depend ON, wait FOR, look FOR/AT/AFTER, and more.
+
+### [012 - Paraphrasing](012-paraphrasing.md)
+Synonyms and different ways to express the same idea.
+
 ### [Daily Routines](daily-routines.md)
 Learn vocabulary about your everyday activities and schedule.
 

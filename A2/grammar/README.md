@@ -35,8 +35,11 @@ Defining relative clauses with WHO, WHICH, THAT, WHERE, WHEN, WHOSE.
 ### [013 - Verb Patterns](013-verb-patterns.md)
 Like, love, hate, enjoy + verb-ING. Common mistake: "I like go" → "I like going".
 
-### [Modal Verbs](modal-verbs.md)
-Can, could, should, must - expressing ability, permission, advice, and obligation.
+### [014 - Used To](014-used-to.md)
+Past habits and states: "I used to work with Arch Linux." Things that were true before but not anymore.
+
+### [015 - Modal Verbs](015-modal-verbs.md)
+Can, could, should, must, have to, would like to - ability, permission, advice, obligation, and wishes.
 
 ### [Comparatives and Superlatives](comparatives-superlatives.md)
 Comparing things and people.

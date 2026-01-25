@@ -8,6 +8,9 @@ How to suggest, agree, disagree, and negotiate in conversations.
 ### [002 - Ordering at Restaurants](002-ordering-at-restaurants.md)
 Polite phrases: I'd like, Could I have. Talking about prices: expensive, pricey.
 
+### [003 - Describing Work Experience](003-work-experience.md)
+Talk about your job, responsibilities, past experience, workload, and career wishes. Critical thinking and connecting ideas.
+
 ### Introducing Yourself
 How to present yourself and talk about your life.
 

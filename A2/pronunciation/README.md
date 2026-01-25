@@ -21,6 +21,13 @@ Focus on American English pronunciation:
 - Common reductions (gonna, wanna, hafta)
 - Word differences (schedule, vitamin)
 
+### [003 - Fluency Techniques](003-fluency-techniques.md)
+Speak more naturally with:
+- Chunking (natural pauses every 5-7 words)
+- Intonation patterns (rising/falling)
+- Avoiding monotone speech
+- Thinking in English (not translating)
+
 ---
 
 **Tip**: Practice pronunciation for 5 minutes every day. Record yourself and compare with native speakers!

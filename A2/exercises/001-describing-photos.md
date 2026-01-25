@@ -358,6 +358,71 @@ Use:
 
 ---
 
+## Describing Your Favourite Photo (Exam Task)
+
+This is a common exam task: describe a photo you like and explain why.
+
+### Task Instructions
+- Describe a photo you like
+- Provide information about who took it, when and where
+- Explain why you like it
+- Use Past Continuous (was/were + -ing)
+- Use connectors: **but, because, although**
+- Write 100-120 words in 30 minutes
+
+### Structure for "My Favourite Photo"
+
+1. **Introduction**: This is my favourite photo
+2. **Description**: What's in the photo (use Past Continuous)
+3. **Difficulty**: Was it easy or difficult to take? Why?
+4. **Why you like it**: Your feelings about the photo
+5. **Where you keep it**: What you do with the photo now
+
+### Example: Student's Favourite Photo (Mark: 9/10)
+
+**Teacher's comments**: Good job! Well done! Keep using your imagination and creativity!
+
+#### Original (with corrections):
+- ~~These~~ → **This** (singular)
+- ~~grand~~ → **pyramid** (clarity)
+- ~~there spark~~ → **there was a spark**
+- ~~of movie~~ → **of a movie** (article)
+- ~~makes smile~~ → **makes me smile** (object pronoun)
+
+#### Corrected version:
+
+```
+This is my favourite photo.
+
+We were fishing in the Nile River. In the background, we can see a pyramid
+and some clouds with a spark in the sky. We were fishing a baby shark.
+Suddenly, there was a spark in the sky. It was very weird.
+
+The photo was a little easy to take because we had the camera and we were
+already outside, but it was difficult because the weather was bad and there
+was a storm.
+
+I like this photo because it is funny and strange. It looks like a scene
+of a movie. I have the photo on my wall at home, next to another photo
+with my girlfriend. I see it every day, and it makes me smile and I
+remember that moment with my friend.
+```
+
+### Key Elements in This Example
+
+| Element | Example from text |
+|---------|------------------|
+| **Introduction** | This is my favourite photo |
+| **Past Continuous** | We were fishing, there was a spark |
+| **Background description** | In the background, we can see a pyramid |
+| **Connector: but** | easy to take... **but** it was difficult because |
+| **Connector: because** | I like this photo **because** it is funny |
+| **Why I like it** | it is funny and strange, looks like a movie scene |
+| **Where I keep it** | on my wall at home, next to another photo |
+| **Personal connection** | makes me smile, I remember that moment |
+
+---
+
 ## Sample Exam-Style Question
 
 **Describe this photo:**
@@ -407,6 +472,25 @@ perfect day for a picnic. Everyone was smiling and looked very happy.
 6. **Add atmosphere** - Describe the weather, the mood, the feeling
 
 7. **Conclude with impression** - End with your overall feeling about the photo
+
+---
+
+## Exercise 5: Write About Your Favourite Photo
+
+Write about YOUR favourite photo (100-120 words). Include:
+
+1. **Introduction**: "This is my favourite photo"
+2. **Description**: What's happening? Where? Who? (use Past Continuous)
+3. **Difficulty**: Was it easy or difficult to take? Why? (use **but** and **because**)
+4. **Why you like it**: How does it make you feel?
+5. **Where you keep it**: Where is the photo now? Do you look at it often?
+
+**Checklist:**
+- [ ] Used Past Continuous (was/were + -ing) at least 3 times
+- [ ] Used connector **but** at least once
+- [ ] Used connector **because** at least twice
+- [ ] Wrote 100-120 words
+- [ ] Included personal feelings
 
 ---
 

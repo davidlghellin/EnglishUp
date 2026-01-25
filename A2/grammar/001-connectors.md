@@ -139,7 +139,9 @@ Los conectores son palabras que unen oraciones, cláusulas o ideas. Ayudan a que
 | Español | English | Uso |
 |:-------:|:-------:|:----|
 | Entonces / Así que | So | Muestra el resultado |
-| Por lo tanto | Therefore / Thus | Más formal |
+| Por eso | That's why | Muy común en conversación |
+| Como resultado | As a result | Más formal |
+| Por lo tanto | Therefore / Thus | Muy formal |
 
 ### How to Use - Cómo Usar
 
@@ -151,7 +153,26 @@ Los conectores son palabras que unen oraciones, cláusulas o ideas. Ayudan a que
 
 **Structure**: Reason/Situation, **so** result.
 
-**Therefore / Thus** - Más formales, muestran conclusión lógica:
+**That's why** - Muy natural en conversación (por eso):
+- I didn't sleep well, **that's why** I'm tired.
+- She speaks French, **that's why** she got the job.
+- Companies prefer big firms, **that's why** freelancers struggle.
+- The traffic was terrible, **that's why** I was late.
+
+**Structure**: Reason, **that's why** + result.
+
+❌ **Common mistake**: Using only "because" and leaving the idea incomplete:
+- ❌ I'm tired. Because I didn't sleep.
+- ✅ I didn't sleep well, **that's why** I'm tired.
+
+**As a result** - Más formal, bueno para trabajo y escritura:
+- Sales dropped. **As a result**, we had to cut costs.
+- He missed the deadline. **As a result**, he lost the client.
+- The weather was bad. **As a result**, the event was cancelled.
+
+**Structure**: Situation. **As a result**, consequence.
+
+**Therefore / Thus** - Muy formales, muestran conclusión lógica:
 - The weather was bad. **Therefore**, the match was cancelled.
 - He didn't study. **Therefore**, he failed the exam.
 - The company lost money. **Thus**, they had to close.

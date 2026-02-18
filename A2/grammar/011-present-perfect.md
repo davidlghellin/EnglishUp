@@ -253,6 +253,105 @@ This is the most important difference to understand!
 
 ---
 
+## The Conversation Pattern: Present Perfect → Past Simple
+
+### This is KEY for real conversations!
+
+When we talk about experiences, we follow a natural pattern:
+
+```
+1. PRESENT PERFECT → Open the topic (general question)
+2. PAST SIMPLE     → Get the details (when, where, how, who with)
+```
+
+### How It Works
+
+| Step | Tense | Why? |
+|------|-------|------|
+| 1. Ask about experience | **Present Perfect** | We don't know WHEN, we just ask IF |
+| 2. Answer yes/no | **Present Perfect** | Still general, no time specified |
+| 3. Ask for details | **Past Simple** | Now we want specifics: when, where, how |
+| 4. Give details | **Past Simple** | Talking about a specific past moment |
+
+### Example Conversations
+
+**Conversation 1: Travel**
+
+| Speaker | Sentence | Tense | Why? |
+|---------|----------|-------|------|
+| A: | **Have** you ever **been** to Japan? | Present Perfect | General experience question |
+| B: | Yes, I **have**! | Present Perfect | General answer |
+| A: | When **did** you **go**? | Past Simple | Asking for specific detail |
+| B: | I **went** last summer. | Past Simple | Specific time |
+| A: | What **did** you **do** there? | Past Simple | More details |
+| B: | I **visited** Tokyo and **ate** a lot of sushi. | Past Simple | Specific actions |
+
+**Conversation 2: Food**
+
+| Speaker | Sentence | Tense | Why? |
+|---------|----------|-------|------|
+| A: | **Have** you ever **tried** Korean food? | Present Perfect | Experience? |
+| B: | No, I **haven't**. | Present Perfect | No experience |
+| A: | You should try it! | — | Recommendation |
+
+> **Note**: If the answer is "No, I haven't", we stay in Present Perfect. There are no details to ask about!
+
+**Conversation 3: Work**
+
+| Speaker | Sentence | Tense | Why? |
+|---------|----------|-------|------|
+| A: | **Have** you ever **worked** remotely? | Present Perfect | Experience? |
+| B: | Yes, I **have**. | Present Perfect | General |
+| A: | Where **did** you **work** from? | Past Simple | Detail |
+| B: | I **worked** from home for 2 years during COVID. | Past Simple | Specific period |
+| A: | **Did** you **like** it? | Past Simple | Detail about that time |
+| B: | Yes, I **loved** it! | Past Simple | Specific opinion |
+
+**Conversation 4: Learning**
+
+| Speaker | Sentence | Tense | Why? |
+|---------|----------|-------|------|
+| A: | **Have** you ever **studied** another language? | Present Perfect | Experience? |
+| B: | Yes, I**'ve studied** French. | Present Perfect | General |
+| A: | How long **did** you **study** it? | Past Simple | Detail |
+| B: | I **studied** it for 3 years in school. | Past Simple | Specific period |
+| A: | **Did** you **enjoy** it? | Past Simple | Detail |
+| B: | Not really, I **found** it difficult. | Past Simple | Specific opinion |
+
+### The Rule
+
+```
+Present Perfect = "Have you ever...?" (¿Alguna vez has...?)
+         ↓
+      YES → Switch to Past Simple for details
+      NO  → Stay in Present Perfect or change topic
+```
+
+### Common Mistake
+
+| Wrong ❌ | Correct ✅ | Why? |
+|----------|-----------|------|
+| Have you ever been to Paris? When **have** you **gone**? | Have you ever been to Paris? When **did** you **go**? | Details need Past Simple |
+| Have you tried sushi? Where **have** you **eaten** it? | Have you tried sushi? Where **did** you **eat** it? | Specific detail = Past Simple |
+
+### Practice: Build Conversations
+
+Start with these Present Perfect questions, then write 2-3 Past Simple follow-up questions:
+
+1. **Have you ever been** to the US?
+   - When did you go? / Where did you stay? / What did you visit?
+
+2. **Have you ever cooked** something special?
+   - What did you cook? / Who did you cook for? / Did they like it?
+
+3. **Have you ever met** a famous person?
+   - Who did you meet? / Where did you meet them? / What did they say?
+
+4. Write your own:
+   - Have you ever _______? → _______ → _______
+
+---
+
 ## Common Time Expressions
 
 ### With Present Perfect

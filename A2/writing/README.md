@@ -17,6 +17,9 @@ Write about past events and experiences.
 ### [005 - Hobbies and Interests](005-hobbies-and-interests.md)
 Write articles about hobbies like drawing, cooking, sports, and music.
 
+### [006 - Opinion Essay](006-opinion-essay.md)
+Formal essay structure: introduction, body (2 opinions + reasons), conclusion. Formal connectors: moreover, however, for instance, in addition. Alternatives to "I think": I believe, in my opinion, I consider.
+
 ---
 
 **Tip**: Start with simple sentences, then combine them to make your writing more interesting!

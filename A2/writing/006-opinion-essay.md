@@ -272,3 +272,48 @@ Remember:
 ---
 
 **Tip**: Before writing, make a table with advantages of BOTH sides (like the whiteboard!). This helps you organize your ideas before you start writing.
+
+---
+
+## My Essay Feedback (Grade: 7.5/10)
+
+### Teacher's Comments
+
+1. **You had to discuss the advantages (not the disadvantages) of both ways of shopping** → The essay should focus on advantages of BOTH sides, not mix in disadvantages.
+2. **Check grammar, spelling and punctuation mistakes** → See corrections below.
+3. **Good organization and use of examples, connectors and vocabulary** → Well done here!
+
+### Mistakes Found in My Essay
+
+#### Page 1 — Introduction, Body 1 & Body 2
+
+| My Mistake ❌ | Correction ✅ | Explanation |
+|--------------|--------------|-------------|
+| **Title?** (missing) | Always write a title! e.g. "Online Shopping vs Physical Stores" | The essay had no title |
+| **Morover**, prices are... | **Moreover**, prices are... | Spelling: "Moreover" |
+| **In adition**, you can shop... | **In addition**, you can shop... | Spelling: "addition" has double d |
+| **You Also** do not have to wait | **You also** do not have to wait | "also" should not be capitalised mid-sentence |
+| wait in **a** line | wait in line | No article needed: "wait in line" |
+| return the product **eastly** | return the product **easily** | Spelling: "easily" |
+| **phisical** stores | **physical** stores | Spelling: "physical" (ph, not ph→f) |
+| the **fit correct** | **they fit correctly** | Need adverb "correctly" (not adjective "correct") |
+| In **adition**, if the store... | In **addition**, if the store... | Same spelling mistake repeated |
+| **about which** one is better (?) | Teacher questioned this phrasing | Consider: "**about which** one is better" is acceptable, but could also say "**which** one is better" |
+
+#### Page 2 — Conclusion
+
+| My Mistake ❌ | Correction ✅ | Explanation |
+|--------------|--------------|-------------|
+| both options **have their** benefits | both options **have** benefits | Unnecessary word |
+| more practical for **every products** | more practical for **all products** / **every product** | "every" + singular noun OR "all" + plural noun |
+| ~~All in all~~ → **In other words** | Teacher preferred "In other words" here | "All in all" = summary, "In other words" = rephrasing |
+| **are necessary** (?) | Teacher questioned this word choice | Consider: "are **important**" / "are **essential**" |
+
+### Key Lesson: "every" vs "all"
+
+| Word | Usage | Example |
+|------|-------|---------|
+| **every** | + singular noun | every **product** / every **day** |
+| **all** | + plural noun | all **products** / all **days** |
+| **every** | individual emphasis | Every student passed the exam (each one) |
+| **all** | group emphasis | All students passed the exam (the whole group) |
